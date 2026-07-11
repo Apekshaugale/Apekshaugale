@@ -41,7 +41,7 @@ To build intelligent, scalable, and user-friendly applications that solve real-w
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
 </p>
 
 ### ⚙️ Backend Development
@@ -102,19 +102,7 @@ using Pandas, NumPy, Matplotlib, and Seaborn.
 
 ---
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Apekshaugale\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Apekshaugale\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshaugale\&layout=compact\&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Apekshaugale\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
