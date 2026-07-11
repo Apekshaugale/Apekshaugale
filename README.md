@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Engineer | Aspiring Data Scientist | Python Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Full+Stack+Web+Developer;Always+Learning+New+Technologies🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Technologies🚀">
 </p>
 
 ---
